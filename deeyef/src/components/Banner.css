@@ -1,0 +1,87 @@
+.mainn{
+  margin: 10px;
+}
+.container-fluid{
+  margin: 0px;
+}
+* {
+  margin: 0px;
+}
+.imagess{
+  border-radius: 15px;
+  object-fit: cover;
+  
+  
+  
+
+}
+@media screen and (max-height: 800px) {
+  .imagess{
+    height: 400px;
+    width: 100%;
+  }
+}
+
+
+@media screen and (min-height: 800px) {
+  .imagess{
+    height: 520px;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .imagess{
+    height: 350px;
+    width: 100%;
+  }
+}
+@media screen and (min-width: 800px) {
+  .imagess{
+    height: 520px;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .imagess{
+    height: 550px;
+    width: 100%;
+  }
+}
+
+@media screen and (min-height: 1200px) {
+  .imagess{
+    height: 550px;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .imagess{
+    height: 400px;
+    width: 100%;
+  }
+}
+
+@media screen and (min-height: 800px) {
+  .imagess{
+    height: 500px;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .imagess{
+    height: 550px;
+    width: 100%;
+  }
+}
+
+@media screen and (min-height: 1200px) {
+  .imagess{
+    height: 640px;
+    width: 100%;
+  }
+}
+
